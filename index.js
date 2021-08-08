@@ -1246,7 +1246,7 @@ let authList = {
     pass: "9999",
     role: "kurucu",
     color: 0xff0000,
-  }
+  },
   "AUTH":{
 pass:"11231",
 role:"admin",
